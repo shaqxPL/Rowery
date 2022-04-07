@@ -13,7 +13,10 @@ public class Main {
         Kia.speedUp(20);
 
         System.out.println(Ford);
+
+        Kia.bLost(10000);
         System.out.println(Kia);
+
 //        Bike składak = new Bike(1, 30);
 //        MountainBike btwin = new MountainBike(6, 40, 2);
 //
@@ -22,6 +25,7 @@ public class Main {
 //
 //        składak.speedUp(20);
 //        btwin.applyBrake(10);
+
 //
 //        System.out.println(składak);
 //        System.out.println(btwin);
